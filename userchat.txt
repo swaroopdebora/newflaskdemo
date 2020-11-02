@@ -2,4 +2,4 @@
 
 "timestamp": 18:38:38, "from": Pinky, "message": How you doing? and whatsUp?
 
-Nov 2nd new code
+Nov 2nd new code + new code for locators conatcus page

@@ -2,3 +2,5 @@
 
 "timestamp": 18:38:38, "from": Pinky, "message": How you doing? and whatsUp?
 
+"timestamp": 18:38:38, "from": Pinky, "message": nothing much lately
+
